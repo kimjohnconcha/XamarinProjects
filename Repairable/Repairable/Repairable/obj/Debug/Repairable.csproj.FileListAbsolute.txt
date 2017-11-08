@@ -1,0 +1,13 @@
+C:\Users\Launch Labs\Documents\kimworkingdatus\XamarinProjects\Repairable\Repairable\Repairable\bin\Debug\Repairable.dll
+C:\Users\Launch Labs\Documents\kimworkingdatus\XamarinProjects\Repairable\Repairable\Repairable\bin\Debug\Repairable.pdb
+C:\Users\Launch Labs\Documents\kimworkingdatus\XamarinProjects\Repairable\Repairable\Repairable\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Launch Labs\Documents\kimworkingdatus\XamarinProjects\Repairable\Repairable\Repairable\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Launch Labs\Documents\kimworkingdatus\XamarinProjects\Repairable\Repairable\Repairable\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Launch Labs\Documents\kimworkingdatus\XamarinProjects\Repairable\Repairable\Repairable\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\Launch Labs\Documents\kimworkingdatus\XamarinProjects\Repairable\Repairable\Repairable\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Launch Labs\Documents\kimworkingdatus\XamarinProjects\Repairable\Repairable\Repairable\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\Launch Labs\Documents\kimworkingdatus\XamarinProjects\Repairable\Repairable\Repairable\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\Launch Labs\Documents\kimworkingdatus\XamarinProjects\Repairable\Repairable\Repairable\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Launch Labs\Documents\kimworkingdatus\XamarinProjects\Repairable\Repairable\Repairable\obj\Debug\Repairable.csprojResolveAssemblyReference.cache
+C:\Users\Launch Labs\Documents\kimworkingdatus\XamarinProjects\Repairable\Repairable\Repairable\obj\Debug\Repairable.dll
+C:\Users\Launch Labs\Documents\kimworkingdatus\XamarinProjects\Repairable\Repairable\Repairable\obj\Debug\Repairable.pdb

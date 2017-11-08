@@ -1,0 +1,2 @@
+C:\Users\Launch Labs\Documents\kimworkingdatus\XamarinProjects\Repairable\Repairable\Repairable.UWP\Repairable.UWP.csproj;arm
+C:\Users\Launch Labs\Documents\kimworkingdatus\XamarinProjects\Repairable\Repairable\Repairable\Repairable.csproj;neutral
