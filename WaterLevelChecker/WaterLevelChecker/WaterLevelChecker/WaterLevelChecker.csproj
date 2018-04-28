@@ -7,6 +7,18 @@
   <ItemGroup>
     <PackageReference Include="Xamarin.Forms" Version="2.5.0.122203" />
     <PackageReference Include="Prism.DryIoc.Forms" Version="7.0.0.396" />
+    <PackageReference Include="Microcharts" Version="0.7.1" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Compile Remove="Views\AppTabbedPage.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="Views\AppTabbedPage.xaml.cs">
+      <DependentUpon>AppTabbedPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Update="Views\ReadingPage.xaml.cs">
+      <DependentUpon>ReadingPage.xaml</DependentUpon>
+    </Compile>
+  </ItemGroup>
 </Project>
