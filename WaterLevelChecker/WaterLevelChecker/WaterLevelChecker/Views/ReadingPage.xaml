@@ -3,8 +3,21 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:microcharts="clr-namespace:Microcharts.Forms;assembly=Microcharts.Forms"
              x:Class="WaterLevelChecker.ReadingPage">
-
-    
-    <microcharts:ChartView x:Name="chartView" />
+    <ScrollView>
+        <StackLayout VerticalOptions="FillAndExpand" Spacing="10">
+            <StackLayout VerticalOptions="FillAndExpand">
+                <Label Text="Current Reading" FontSize="13" Margin="5,0,0,0" />
+                <microcharts:ChartView x:Name="chartView" HeightRequest="20" VerticalOptions="FillAndExpand"/>
+            </StackLayout>
+            <StackLayout VerticalOptions="FillAndExpand" Padding="0,10,0,0">
+                <Label Text="Reading this week" FontSize="13" Margin="5,0,0,0" />
+                <microcharts:ChartView x:Name="lineChartView" VerticalOptions="FillAndExpand" />
+            </StackLayout>
+            <StackLayout VerticalOptions="FillAndExpand" Padding="0,10,0,0">
+                <Label Text="Reading this month" FontSize="13" Margin="5,0,0,0" />
+                <microcharts:ChartView x:Name="pieChartView" VerticalOptions="FillAndExpand" />
+            </StackLayout>
+        </StackLayout>
+    </ScrollView>
     
 </ContentPage>

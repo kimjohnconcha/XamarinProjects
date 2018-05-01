@@ -143,6 +143,9 @@
     <PackageReference Include="Microcharts">
       <Version>0.7.1</Version>
     </PackageReference>
+    <PackageReference Include="Microcharts.Forms">
+      <Version>0.7.1</Version>
+    </PackageReference>
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\WaterLevelChecker\WaterLevelChecker.csproj">

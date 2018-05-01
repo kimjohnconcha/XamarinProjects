@@ -10,6 +10,10 @@ namespace WaterLevelChecker
         public AppTabbedPage()
         {
             InitializeComponent();
+
+            this.Children.Add(new Views.ActivityPage(){ Title="Activity" });
+            this.Children.Add(new ReadingPage() {Title="Water Reading"});
+            this.Children.Add(new Views.SettingsPage() { Title = "Settings" });
         }
     }
 }

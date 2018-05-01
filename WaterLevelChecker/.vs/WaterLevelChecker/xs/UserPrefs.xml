@@ -1,25 +1,20 @@
 ﻿<Properties StartupConfiguration="{1F029E4C-23E8-4119-B811-CE7CD1B2EE9E}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="WaterLevelChecker/WaterLevelChecker/Views/ReadingPage.xaml.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="WaterLevelChecker/WaterLevelChecker/Views/ReadingPage.xaml">
     <Files>
-      <File FileName="WaterLevelChecker/WaterLevelChecker/App.xaml" Line="6" Column="26" />
-      <File FileName="WaterLevelChecker/WaterLevelChecker/App.xaml.cs" Line="23" Column="54" />
-      <File FileName="WaterLevelChecker/WaterLevelChecker/Views/LoginPage.xaml" Line="13" Column="1" />
-      <File FileName="WaterLevelChecker/WaterLevelChecker/Views/LoginPage.xaml.cs" Line="6" Column="34" />
-      <File FileName="WaterLevelChecker/WaterLevelChecker/ViewModels/LoginPageViewModel.cs" Line="25" Column="1" />
-      <File FileName="WaterLevelChecker/WaterLevelChecker/ViewModels/ViewModelBase.cs" Line="16" Column="10" />
       <File FileName="WaterLevelChecker/WaterLevelChecker/Views/AppTabbedPage.xaml" Line="9" Column="1" />
-      <File FileName="WaterLevelChecker/WaterLevelChecker/Views/AppTabbedPage.xaml.cs" Line="16" Column="1" />
-      <File FileName="WaterLevelChecker/WaterLevelChecker/Views/ReadingPage.xaml" Line="4" Column="65" />
-      <File FileName="WaterLevelChecker/WaterLevelChecker/Views/ReadingPage.xaml.cs" Line="32" Column="41" />
-      <File FileName="WaterLevelChecker/WaterLevelChecker/ViewModels/ReadingPageViewModel.cs" Line="1" Column="1" />
+      <File FileName="WaterLevelChecker/WaterLevelChecker/Views/AppTabbedPage.xaml.cs" Line="9" Column="6" />
+      <File FileName="WaterLevelChecker/WaterLevelChecker/Views/ReadingPage.xaml" Line="7" Column="21" />
+      <File FileName="WaterLevelChecker/WaterLevelChecker/Views/ReadingPage.xaml.cs" Line="37" Column="18" />
+      <File FileName="WaterLevelChecker/WaterLevelChecker/ViewModels/ReadingPageViewModel.cs" Line="11" Column="1" />
+      <File FileName="WaterLevelChecker/WaterLevelChecker/ViewModels/MainPageViewModel.cs" Line="1" Column="22" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.ItemProperties.WaterLevelChecker.Android PreferredExecutionTarget="Android.Pixel_2_API_23" />
+  <MonoDevelop.Ide.ItemProperties.WaterLevelChecker.Android PreferredExecutionTarget="Android.Pixel_2_API_23" AndroidDesignerPreferredTheme="Theme.DeviceDefault.NoActionBar.Fullscreen" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.WaterLevelChecker.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.12F2105A-9311-4F18-B781-457AFFC4A613" />
+  <MonoDevelop.Ide.ItemProperties.WaterLevelChecker.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.826D9D52-FE98-4CAD-81DE-07624F1F911C" />
   <MultiItemStartupConfigurations />
 </Properties>

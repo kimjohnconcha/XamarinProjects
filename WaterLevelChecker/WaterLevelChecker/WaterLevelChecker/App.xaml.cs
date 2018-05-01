@@ -24,9 +24,9 @@ namespace WaterLevelChecker
         {
             InitializeComponent();
 
-            //await NavigationService.NavigateAsync("NavigationPage/MainPage");
-            await NavigationService.NavigateAsync("NavigationPage/LoginPage");
-            await NavigationService.NavigateAsync("NavigationPage/ReadingPage");
+            await NavigationService.NavigateAsync("NavigationPage/AppTabbedPage");
+            //await NavigationService.NavigateAsync("NavigationPage/LoginPage");
+            //await NavigationService.NavigateAsync("NavigationPage/ReadingPage");
         }
 
         protected override void RegisterTypes(IContainerRegistry containerRegistry)
@@ -36,6 +36,8 @@ namespace WaterLevelChecker
             containerRegistry.RegisterForNavigation<LoginPage>();
             containerRegistry.RegisterForNavigation<AppTabbedPage>();
             containerRegistry.RegisterForNavigation<ReadingPage>();
+            containerRegistry.RegisterForNavigation<SettingsPage>();
+            containerRegistry.RegisterForNavigation<ActivityPage>();
         }
     }
 }
