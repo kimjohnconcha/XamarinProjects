@@ -1,9 +1,9 @@
 ﻿<Properties StartupConfiguration="{1F029E4C-23E8-4119-B811-CE7CD1B2EE9E}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="WaterLevelChecker/WaterLevelChecker/Views/ReadingPage.xaml">
+  <MonoDevelop.Ide.Workbench>
     <Files>
       <File FileName="WaterLevelChecker/WaterLevelChecker/Views/AppTabbedPage.xaml" Line="9" Column="1" />
       <File FileName="WaterLevelChecker/WaterLevelChecker/Views/AppTabbedPage.xaml.cs" Line="9" Column="6" />
-      <File FileName="WaterLevelChecker/WaterLevelChecker/Views/ReadingPage.xaml" Line="7" Column="21" />
+      <File FileName="WaterLevelChecker/WaterLevelChecker/Views/ReadingPage.xaml" Line="24" Column="1" />
       <File FileName="WaterLevelChecker/WaterLevelChecker/Views/ReadingPage.xaml.cs" Line="37" Column="18" />
       <File FileName="WaterLevelChecker/WaterLevelChecker/ViewModels/ReadingPageViewModel.cs" Line="11" Column="1" />
       <File FileName="WaterLevelChecker/WaterLevelChecker/ViewModels/MainPageViewModel.cs" Line="1" Column="22" />
