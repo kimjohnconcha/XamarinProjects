@@ -10,6 +10,9 @@ namespace WaterLevelChecker.Views
         public ActivityPage()
         {
             InitializeComponent();
+
+            this.Title = "Activity";
+            this.Icon = "clock.png";
         }
     }
 }

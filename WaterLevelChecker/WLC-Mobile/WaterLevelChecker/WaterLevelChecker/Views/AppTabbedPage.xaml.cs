@@ -11,9 +11,17 @@ namespace WaterLevelChecker
         {
             InitializeComponent();
 
-            this.Children.Add(new Views.ActivityPage(){ Title="Activity" });
-            this.Children.Add(new ReadingPage() {Title="Water Reading"});
-            this.Children.Add(new Views.SettingsPage() { Title = "Settings" });
+            this.Children.Add(
+                new Views.ActivityPage(){}
+            );
+
+            this.Children.Add(
+                new ReadingPage()
+            );
+
+            this.Children.Add(
+                new Views.SettingsPage()
+             );
         }
     }
 }

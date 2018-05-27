@@ -130,6 +130,9 @@
     <BundleResource Include="Resources\Default.png" />
     <BundleResource Include="Resources\Default@2x.png" />
     <InterfaceDefinition Include="Resources\LaunchScreen.storyboard" />
+    <BundleResource Include="Resources\settings.png" />
+    <BundleResource Include="Resources\calendar.png" />
+    <BundleResource Include="Resources\clock.png" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="System" />

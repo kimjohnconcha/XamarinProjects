@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WaterLevelChecker.Android",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WaterLevelChecker.iOS", "WaterLevelChecker\WaterLevelChecker.iOS\WaterLevelChecker.iOS.csproj", "{1F029E4C-23E8-4119-B811-CE7CD1B2EE9E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestServices", "RestServices\RestServices.csproj", "{A9271FF0-408C-488F-A51A-685C0FAEC74A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -67,5 +69,21 @@ Global
 		{1F029E4C-23E8-4119-B811-CE7CD1B2EE9E}.Ad-Hoc|iPhone.Build.0 = Ad-Hoc|iPhone
 		{1F029E4C-23E8-4119-B811-CE7CD1B2EE9E}.AppStore|iPhone.ActiveCfg = AppStore|iPhone
 		{1F029E4C-23E8-4119-B811-CE7CD1B2EE9E}.AppStore|iPhone.Build.0 = AppStore|iPhone
+		{A9271FF0-408C-488F-A51A-685C0FAEC74A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9271FF0-408C-488F-A51A-685C0FAEC74A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9271FF0-408C-488F-A51A-685C0FAEC74A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9271FF0-408C-488F-A51A-685C0FAEC74A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9271FF0-408C-488F-A51A-685C0FAEC74A}.Debug|iPhoneSimulator.ActiveCfg = Debug|Any CPU
+		{A9271FF0-408C-488F-A51A-685C0FAEC74A}.Debug|iPhoneSimulator.Build.0 = Debug|Any CPU
+		{A9271FF0-408C-488F-A51A-685C0FAEC74A}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
+		{A9271FF0-408C-488F-A51A-685C0FAEC74A}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
+		{A9271FF0-408C-488F-A51A-685C0FAEC74A}.Debug|iPhone.ActiveCfg = Debug|Any CPU
+		{A9271FF0-408C-488F-A51A-685C0FAEC74A}.Debug|iPhone.Build.0 = Debug|Any CPU
+		{A9271FF0-408C-488F-A51A-685C0FAEC74A}.Release|iPhone.ActiveCfg = Release|Any CPU
+		{A9271FF0-408C-488F-A51A-685C0FAEC74A}.Release|iPhone.Build.0 = Release|Any CPU
+		{A9271FF0-408C-488F-A51A-685C0FAEC74A}.Ad-Hoc|iPhone.ActiveCfg = Release|Any CPU
+		{A9271FF0-408C-488F-A51A-685C0FAEC74A}.Ad-Hoc|iPhone.Build.0 = Release|Any CPU
+		{A9271FF0-408C-488F-A51A-685C0FAEC74A}.AppStore|iPhone.ActiveCfg = Release|Any CPU
+		{A9271FF0-408C-488F-A51A-685C0FAEC74A}.AppStore|iPhone.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

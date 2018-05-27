@@ -10,6 +10,9 @@ namespace WaterLevelChecker.Views
         public SettingsPage()
         {
             InitializeComponent();
+
+            Title = "Settings";
+            Icon = "settings.png";
         }
     }
 }

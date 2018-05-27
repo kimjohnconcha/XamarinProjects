@@ -12,6 +12,9 @@ namespace WaterLevelChecker
         {
             InitializeComponent();
 
+            Title = "Water Reading";
+            Icon = "calendar.png";
+
             var entries = new[]
             {
                 new Microcharts.Entry(150)

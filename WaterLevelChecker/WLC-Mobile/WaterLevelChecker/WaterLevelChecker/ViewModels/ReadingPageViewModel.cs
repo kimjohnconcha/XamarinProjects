@@ -5,6 +5,7 @@ namespace WaterLevelChecker.ViewModels
     {
         public ReadingPageViewModel()
         {
+            
         }
     }
 }

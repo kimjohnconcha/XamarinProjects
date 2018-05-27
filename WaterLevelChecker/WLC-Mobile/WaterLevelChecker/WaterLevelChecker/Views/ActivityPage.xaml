@@ -3,5 +3,21 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
              x:Class="WaterLevelChecker.Views.ActivityPage">
     <ContentPage.Content>
+        <StackLayout Padding="0,30,0,0" VerticalOptions="Fill">
+            <Label FontSize="22" Text="Reading" HorizontalOptions="FillAndExpand" HorizontalTextAlignment="Center" />
+            <ListView ItemsSource="{Binding ActivityList}" SeparatorVisibility="None">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <StackLayout Margin="10,0,0,0">
+                                <Label Text="{Binding ActivityReading}" FontSize="18" />
+                                <Label Text="{Binding ActivityReadingDate}" FontSize="13" />
+                            </StackLayout>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+            <Button Text="Refresh" />
+        </StackLayout>
     </ContentPage.Content>
 </ContentPage>
