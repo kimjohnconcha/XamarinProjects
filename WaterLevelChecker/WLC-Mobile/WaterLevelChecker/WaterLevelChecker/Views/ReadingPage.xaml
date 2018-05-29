@@ -5,6 +5,7 @@
              x:Class="WaterLevelChecker.ReadingPage">
     <ScrollView>
         <StackLayout VerticalOptions="FillAndExpand" Spacing="10">
+            <Label FontSize="22" Text="Reading" HorizontalOptions="FillAndExpand" HorizontalTextAlignment="Center" /> 
             <StackLayout VerticalOptions="FillAndExpand">
                 <Label Text="Current Reading" FontSize="13" Margin="5,0,0,0" />
                 <microcharts:ChartView x:Name="chartView" HeightRequest="20" VerticalOptions="FillAndExpand"/>

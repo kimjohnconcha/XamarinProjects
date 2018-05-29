@@ -1,5 +1,5 @@
 ﻿<Properties StartupConfiguration="{1F029E4C-23E8-4119-B811-CE7CD1B2EE9E}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="RestServices/RestServices/RestService.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="WaterLevelChecker/WaterLevelChecker/Views/SettingsPage.xaml">
     <Files>
       <File FileName="WaterLevelChecker/WaterLevelChecker/App.xaml.cs" Line="17" Column="46" />
       <File FileName="WaterLevelChecker/WaterLevelChecker/ViewModels/ReadingPageViewModel.cs" Line="8" Column="13" />
@@ -7,14 +7,16 @@
       <File FileName="WaterLevelChecker/WaterLevelChecker/Views/AppTabbedPage.xaml" Line="9" Column="1" />
       <File FileName="WaterLevelChecker/WaterLevelChecker/Views/AppTabbedPage.xaml.cs" Line="20" Column="15" />
       <File FileName="WaterLevelChecker/WaterLevelChecker/Views/ActivityPage.xaml.cs" Line="19" Column="1" />
-      <File FileName="WaterLevelChecker/WaterLevelChecker/Views/ActivityPage.xaml" Line="24" Column="1" />
-      <File FileName="WaterLevelChecker/WaterLevelChecker/ViewModels/ActivityPageViewModel.cs" Line="13" Column="47" />
+      <File FileName="WaterLevelChecker/WaterLevelChecker/Views/ActivityPage.xaml" Line="7" Column="119" />
+      <File FileName="WaterLevelChecker/WaterLevelChecker/ViewModels/ActivityPageViewModel.cs" Line="25" Column="10" />
       <File FileName="WaterLevelChecker/WaterLevelChecker/ViewModels/LoginPageViewModel.cs" Line="11" Column="98" />
       <File FileName="WaterLevelChecker/WaterLevelChecker/Models/Reading.cs" Line="10" Column="1" />
       <File FileName="RestServices/RestServices/IRestServices.cs" Line="1" Column="1" />
       <File FileName="RestServices/RestServices/IRestResponse.cs" Line="1" Column="1" />
       <File FileName="RestServices/RestServices/RestResponse.cs" Line="1" Column="1" />
-      <File FileName="RestServices/RestServices/RestService.cs" Line="1" Column="1" />
+      <File FileName="RestServices/RestServices/RestService.cs" Line="11" Column="1" />
+      <File FileName="WaterLevelChecker/WaterLevelChecker/Views/ReadingPage.xaml" Line="19" Column="42" />
+      <File FileName="WaterLevelChecker/WaterLevelChecker/Views/SettingsPage.xaml" Line="6" Column="21" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />

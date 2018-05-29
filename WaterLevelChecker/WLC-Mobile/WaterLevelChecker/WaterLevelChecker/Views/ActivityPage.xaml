@@ -4,7 +4,7 @@
              x:Class="WaterLevelChecker.Views.ActivityPage">
     <ContentPage.Content>
         <StackLayout Padding="0,30,0,0" VerticalOptions="Fill">
-            <Label FontSize="22" Text="Reading" HorizontalOptions="FillAndExpand" HorizontalTextAlignment="Center" />
+            <Label FontSize="22" Text="Activity" HorizontalOptions="FillAndExpand" HorizontalTextAlignment="Center" />
             <ListView ItemsSource="{Binding ActivityList}" SeparatorVisibility="None">
                 <ListView.ItemTemplate>
                     <DataTemplate>

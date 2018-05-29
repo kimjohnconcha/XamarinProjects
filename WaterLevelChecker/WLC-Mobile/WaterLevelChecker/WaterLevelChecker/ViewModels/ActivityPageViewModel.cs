@@ -10,8 +10,12 @@ namespace WaterLevelChecker.ViewModels
         public ActivityPageViewModel(INavigationService navigationService) : base(navigationService)
         {
             _activityList = new ObservableCollection<Reading>();
-            _activityList.Add(new Reading() {ActivityReading = "Tomorrow's forecast in Oakland is Chance of Rain.", 
-                ActivityReadingDate = DateTime.Now.ToString()});
+            _activityList.Add(new Reading() {ActivityReading = "Water Level below 3ft!", 
+                ActivityReadingDate = DateTime.Now.AddDays(-6).ToString()});
+            _activityList.Add(new Reading() {ActivityReading = "Water Level very high!", 
+                ActivityReadingDate = DateTime.Now.AddDays(-7).ToString()});
+            _activityList.Add(new Reading() {ActivityReading = "Water Level above 5ft!", 
+                ActivityReadingDate = DateTime.Now.AddDays(-2).ToString()});
         }
 
         public ObservableCollection<Reading> ActivityList
